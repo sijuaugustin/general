@@ -1,0 +1,7 @@
+Readme file 
+git clone url
+files add to the desktop folder
+run git bash from the folder location
+git add .
+git commit -m 'files added'
+git push
